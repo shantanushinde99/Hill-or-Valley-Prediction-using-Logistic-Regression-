@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://miro.medium.com/max/2048/1*OohqW5DGh9CQS4hLY5FXzA.png" height="230"/>
+  <img src="https://www.kdnuggets.com/wp-content/uploads/nisha-logistic-regression-classification_6.gif" height="230"/>
 </p>
 
 <hr style="border: 2px solid #4CAF50;"/>
